@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        <header>
+            {{- partial "header.html" . -}}
+        </header>
+
+        <nav>
+            <span><a href='/'>Home</a></span>
+            <span><a href='/posts'>Blog</a></span>
+        </nav>
+
+        <main>
+            {{- block "main" . }}{{- end }}
+        </main>
+
+
+        <footer>
+            {{- partial "footer.html" . -}}
+        </footer>
+    </body>
+</html>
