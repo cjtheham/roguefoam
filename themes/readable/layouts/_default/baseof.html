@@ -7,9 +7,11 @@
         </header>
 
         <nav>
-            <span><a href='/'>Home</a></span>
-            <span><a href='/posts'>Blog</a></span>
-            <span><a href='/projects'>Projects</a></span>
+            {{ range .Site.Menus.main -}}
+            <span>
+                <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+            </span>
+            {{- end }}
         </nav>
 
         <main>

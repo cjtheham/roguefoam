@@ -1,0 +1,20 @@
+theme: 'readable'
+title: 'RogueFoam'
+
+languages:
+  en:
+    languageName: English
+    menu:
+      main:
+      - name: Hobbies
+        url: /hobbies
+        weight: 30
+      - name: Projects
+        url: /projects
+        weight: 40
+      - name: Blog
+        url: /posts
+        weight: 10
+      - name: Home
+        url: /
+        weight: 1
