@@ -2,7 +2,7 @@
 title: "I was interviewed on the QSO Today Podcast"
 description: "Me and W4IPC being interviewed on the QSO Today podcast by Eric Guth, 4Z1UG."
 date: 2022-08-12
-tags: ['amateur radio', 'interview', 'youth in radio']
+hobbies: ['Amateur Radio']
 ---
 
 I had the wonderful opportunity recently to go on the QSO Today Podcast hosted by Eric, 4Z1UG. Myself, along with Connor W4IPC got an opportunity to talk about what we believe is causing less youth participation in amateur radio, and how the older generation of hams can connect with youth.

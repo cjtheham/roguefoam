@@ -3,15 +3,14 @@ title: 'RogueFoam'
 
 languages:
   en:
+    taxonomies:
+      hobby: hobbies
     languageName: English
     menu:
       main:
       - name: Hobbies
         url: /hobbies
         weight: 30
-      - name: Projects
-        url: /projects
-        weight: 40
       - name: Blog
         url: /posts
         weight: 10

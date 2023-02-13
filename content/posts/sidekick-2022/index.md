@@ -3,7 +3,7 @@ title: "MK2.1 - 'The Sidekick'"
 description: "The MK2.1 may be one of my favorite blasters of the year, so together
   with my roommate I've made it my own."
 date: 2022-12-28
-tags: ["painting", "mk2.1", "dart zone"]
+hobbies: ['Dart Blasters']
 ---
 
 The MK2.1 has been my favorite blaster release of 2022. After being able to play with it at FoamCon in Rochester, NY, I fell in love with the same mechanics I loved with the MK2 but the nice addition of a magazine over top-loading. I got my hands on one after the tournament and made some modifications to make it even better.
