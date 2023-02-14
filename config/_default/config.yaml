@@ -1,6 +1,8 @@
 theme: 'readable'
 title: 'RogueFoam'
 
+defaultContentLanguage: en
+
 languages:
   en:
     taxonomies:
