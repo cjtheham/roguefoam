@@ -1,5 +1,6 @@
 ---
 title: ''
+description: "Rogue's Home Page"
 ---
 
 👋🏻 Hi, I'm Rogue and welcome to my personal website and blog.
