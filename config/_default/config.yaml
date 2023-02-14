@@ -2,6 +2,7 @@ theme: 'readable'
 title: 'RogueFoam'
 
 defaultContentLanguage: en
+enableRobotsTXT: true
 
 languages:
   en:
